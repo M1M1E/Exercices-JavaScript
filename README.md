@@ -4,7 +4,7 @@ Afin de garantir une propreté de code, faire chaque exercice dans un fichier di
 
 ## Exercice 1
 Créer un tableau contenant des notes d’étudiants.  
-Les notes sont sur 20, exemple : [4, 14, 20, ...].
+Les notes sont sur 20, exemple : [4, 14, 20, ...]. Alimentr ce tableau de plusieurs données.
 
 * Calculer la moyenne des notes.  
 * Afficher à l'écran que les notes supérieurs à 10.
